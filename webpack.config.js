@@ -1,5 +1,6 @@
 //  由于webpack是基于NODE进行构建的，所以webpack的配置文件中，任何合法的NODE代码都是支持的
 let path = require('path');
+let proxy = require('http-proxy-middleware');
 
 // 在内存中，根据指定的模版页面，生成一份内存中的首页，同时把自动打包好的bundle注入到页面底部
 // 若果要配置插件，需要在导出的对象中，挂载一个plugins节点
