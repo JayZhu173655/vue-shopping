@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "videoList": [
+        {
+            "id": 1,
+            "title": "风 官方版 火箭少女101",
+            "img": "../../images/video.png",
+            "src": "http://hc.yinyuetai.com/uploads/videos/common/2A6D016B8888A91ED529735DDD36D272.mp4"
+        },
+        {
+            "id": 2,
+            "title": "City Girls – Act Up #MUSICVIDEO#",
+            "img": "../../images/video.png",
+            "src": "//f.us.sinaimg.cn/000UJqsYlx07uh6UsA5G01041202X9dU0E020.mp4?label=mp4_720p&template=1280x720.23.0&Expires=1561554009&ssig=goU%2FXjDWGf&KID=unistore,video"
+        },
+        {
+            "id": 3,
+            "title": "《千与千寻》周深翻唱主题曲",
+            "img": "../../images/video.png",
+            "src": "http://hc.yinyuetai.com/uploads/videos/common/81E9016B6454B2ADD09AE8853E6A7824.mp4"
+        },
+        {
+            "id": 4,
+            "title": "Rudy 追梦赤子心 原声特辑",
+            "img": "../../images/video.png",
+            "src": "http://hc.yinyuetai.com/uploads/videos/common/A3A701419D71258CCE3315DFEA195F96.flv"
+        },
+        {
+            "id": 5,
+            "title": "追梦赤子心 官方版 GALA",
+            "img": "../../images/video.png",
+            "src": "http://hc.yinyuetai.com/uploads/videos/common/DD1106512A3B997A56C740CF8318888A.flv"
+        },
+        {
+            "id": 6,
+            "title": "路 范玮琪",
+            "img": "../../images/video.png",
+            "src": "http://hc.yinyuetai.com/uploads/videos/common/9EBE013A0FD3ABAEDF6BCFFEB3BB8CA4.flv"
+        },
+        {
+            "id": 7,
+            "title": "ヒカリヘ 向著阳光 海贼王",
+            "img": "../../images/video.png",
+            "src": "http://hc.yinyuetai.com/uploads/videos/common/F63D01301359CFA3BA7FC289E9CBF7B3.flv"
+        },
+        {
+            "id": 8,
+            "title": "宾克斯的美酒 海贼王",
+            "img": "../../images/video.png",
+            "src": "http://hc.yinyuetai.com/uploads/videos/common/404D0164CCF0E451E293E89D006E5992.mp4?sc=3b6ca07449176c8d&br=781&vid=3256624&aid=13355&area=JP&vst=3"
+        }
+    ]
+}

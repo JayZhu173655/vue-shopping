@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "thumbnailList": [
+        {
+            "url": "../../api/images/photolist/1/01.jpg"
+        },
+        {
+            "url": "../../api/images/photolist/1/02.jpg"
+        },
+        {
+            "url": "../../api/images/photolist/1/03.jpg"
+        },
+        {
+            "url": "../../api/images/photolist/1/04.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 248,
+            "title": "小米8 屏幕指纹版",
+            "add_time": "2019-05-25 05:30:31",
+            "salePrice": 1999,
+            "normalPrice": 2999,
+            "inventory": 50,
+            "goods_num": "SB99258498"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 254,
+            "title": "小米MIX 3",
+            "add_time": "2019-05-25 15:54:31",
+            "salePrice": 3299,
+            "normalPrice": 3499,
+            "inventory": 60,
+            "goods_num": "SB87858498"
+        }
+    ]
+}

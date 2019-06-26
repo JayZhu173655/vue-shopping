@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "navList": [
+    {
+      "id": 1,
+      "img": "api/images/nav/news.png",
+      "url": "/home/newslist",
+      "title": "新闻资讯"
+    },
+    {
+      "id": 2,
+      "img": "api/images/nav/photos.png",
+      "url": "/home/photolist",
+      "title": "图片分享"
+    },
+    {
+      "id": 3,
+      "img": "api/images/nav/shopcar.png",
+      "url": "/home/goodslist",
+      "title": "商品购买"
+    },
+    {
+      "id": 4,
+      "img": "api/images/nav/message.png",
+      "url": "/home/leavemessage",
+      "title": "留言反馈"
+    },
+    {
+      "id": 5,
+      "img": "api/images/nav/video.png",
+      "url": "/home/video",
+      "title": "视频专区"
+    },
+    {
+      "id": 6,
+      "img": "api/images/nav/connect.png",
+      "url": "/home/connectus",
+      "title": "联系我们"
+    }
+  ]
+}

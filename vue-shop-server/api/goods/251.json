@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 251,
+            "title": "小米MIX 2S",
+            "add_time": "2019-05-25 22:30:31",
+            "salePrice": 1999,
+            "normalPrice": 2999,
+            "inventory": 60,
+            "goods_num": "SB33258498"
+        }
+    ]
+}

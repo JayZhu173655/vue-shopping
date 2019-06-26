@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 253,
+            "title": "黑鲨游戏手机 Helo",
+            "add_time": "2019-05-25 22:54:31",
+            "salePrice": 3199,
+            "normalPrice": 3499,
+            "inventory": 60,
+            "goods_num": "SB21668498"
+        }
+    ]
+}

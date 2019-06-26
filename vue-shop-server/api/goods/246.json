@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 246,
+            "title": "小米9 SE",
+            "add_time": "2019-05-25 03:30:31",
+            "salePrice": 1999,
+            "normalPrice": 2099,
+            "inventory": 50,
+            "goods_num": "SB74576498"
+        }
+    ]
+}

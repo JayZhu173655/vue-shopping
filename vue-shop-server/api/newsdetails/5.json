@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "details": [
+    {
+      "id": 5,
+      "title": "layuiadmin中Echart模块中的模拟数据是哪儿来的？",
+      "add_time": "2019-06-15 20:08:45",
+      "click": 1,
+      "content": "<p> 最近遇到一个作业，要求使用 Echarts 散点图，本来这个图是很容易的，官网上也有很多的教程。但是如果可以动态的更新 Echarts 散点图就更好了。我本身对 js 不感兴趣，经过不停的查找资料最终实现了这一功能。</p><p>我的项目是 Servlet + jsp + Echarts。先从 Servlet 入手，我们的项目需要传递的数值是 x 坐标和 y 坐标。我首先写了一个 JavaBean</p>"
+    }
+  ]
+}

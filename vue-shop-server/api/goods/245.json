@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 245,
+            "title": "黑鲨游戏手机 2",
+            "add_time": "2019-05-25 12:30:31",
+            "salePrice": 2899,
+            "normalPrice": 3199,
+            "inventory": 40,
+            "goods_num": "SB78776498"
+        }
+        
+    ]
+}

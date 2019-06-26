@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "swipeList": [
+    {
+      "id": 1,
+      "img": "/api/images/swipe/01.jpg",
+      "url": "/home/photoinfo/41"
+    },
+    {
+      "id": 2,
+      "img": "/api/images/swipe/02.jpg",
+      "url": "/home/photoinfo/223"
+    },
+    {
+      "id": 3,
+      "img": "/api/images/swipe/03.jpg",
+      "url": "/home/photoinfo/105"
+    }
+  ]
+}

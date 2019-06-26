@@ -1,0 +1,118 @@
+{
+    "success": true,
+    "goodsList": [
+        {
+            "id": 241,
+            "title": "Redmi K20",
+            "url": "../../api/images/goods/01.jpg",
+            "salePrice": 1799,
+            "normalPrice": 1999,
+            "inventory": 30
+        },
+        {
+            "id": 242,
+            "title": "Redmi 7A",
+            "url": "../../api/images/goods/02.jpg",
+            "salePrice": 549,
+            "normalPrice": 699,
+            "inventory": 20
+        },
+        {
+            "id": 243,
+            "title": "Redmi Note 7 Pro",
+            "url": "../../api/images/goods/03.jpg",
+            "salePrice": 1599,
+            "normalPrice": 1699,
+            "inventory": 20
+        },
+        {
+            "id": 244,
+            "title": "Redmi Note 7",
+            "url": "../../api/images/goods/04.jpg",
+            "salePrice": 999,
+            "normalPrice": 1099,
+            "inventory": 40
+        },
+        {
+            "id": 245,
+            "title": "黑鲨游戏手机 2",
+            "url": "../../api/images/goods/05.jpg",
+            "salePrice": 2899,
+            "normalPrice": 3199,
+            "inventory": 40
+        },
+        {
+            "id": 246,
+            "title": "小米9 SE",
+            "url": "../../api/images/goods/06.jpg",
+            "salePrice": 1999,
+            "normalPrice": 2099,
+            "inventory": 50
+        },
+        {
+            "id": 247,
+            "title": "小米8 青春版",
+            "url": "../../api/images/goods/07.jpg",
+            "salePrice": 1049,
+            "normalPrice": 1699,
+            "inventory": 50
+        },
+        {
+            "id": 248,
+            "title": "小米8 屏幕指纹版",
+            "url": "../../api/images/goods/08.jpg",
+            "salePrice": 1999,
+            "normalPrice": 2999,
+            "inventory": 50
+        },
+        {
+            "id": 249,
+            "title": "小米 Play 4GB+64GB",
+            "url": "../../api/images/goods/09.jpg",
+            "salePrice": 749,
+            "normalPrice": 999,
+            "inventory": 60
+        },
+        {
+            "id": 250,
+            "title": "小米8 屏幕指纹版",
+            "url": "../../api/images/goods/10.jpg",
+            "salePrice": 1999,
+            "normalPrice": 2999,
+            "inventory": 60
+        },
+        {
+            "id": 251,
+            "title": "小米MIX 2S",
+            "url": "../../api/images/goods/10.jpg",
+            "salePrice": 1999,
+            "normalPrice": 2999,
+            "inventory": 60
+        },
+        {
+            "id": 252,
+            "title": "小米Play（附带流量卡）",
+            "url": "../../api/images/goods/11.jpg",
+            "salePrice": 1099,
+            "normalPrice": 1199,
+            "inventory": 60
+        },
+        {
+            "id": 253,
+            "title": "黑鲨游戏手机 Helo",
+            "url": "../../api/images/goods/12.jpg",
+            "salePrice": 3199,
+            "normalPrice": 3499,
+            "inventory": 60
+        },
+        {
+            "id": 254,
+            "title": "小米MIX 3",
+            "url": "../../api/images/goods/13.jpg",
+            "salePrice": 3299,
+            "normalPrice": 3499,
+            "inventory": 60
+        }
+        
+    ]
+}

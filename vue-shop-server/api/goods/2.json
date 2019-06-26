@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "photosList": [
+        {
+            "img": "../../api/images/goods/swipe/01.jpg"
+        },
+        {
+            "img": "../../api/images/goods/swipe/02.jpg"
+        },
+        {
+            "img": "../../api/images/goods/swipe/03.jpg"
+        },
+        {
+            "img": "../../api/images/goods/swipe/04.jpg"
+        },
+        {
+            "img": "../../api/images/goods/swipe/05.jpg"
+        },
+        {
+            "img": "../../api/images/goods/swipe/06.jpg"
+        }
+    ]
+}

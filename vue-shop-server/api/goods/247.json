@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 247,
+            "title": "小米8 青春版",
+            "add_time": "2019-05-25 07:30:31",
+            "salePrice": 1049,
+            "normalPrice": 1699,
+            "inventory": 50,
+            "goods_num": "SB74258498"
+        }
+    ]
+}

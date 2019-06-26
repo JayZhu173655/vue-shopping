@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "goodsInfo": [
+        {
+            "id": 244,
+            "title": "Redmi Note 7",
+            "add_time": "2019-05-25 10:30:31",
+            "salePrice": 999,
+            "normalPrice": 1099,
+            "inventory": 40,
+            "goods_num": "SB19776498"
+        }
+    ]
+}
